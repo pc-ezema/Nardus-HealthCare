@@ -44,14 +44,6 @@
                                         @includeIf('layouts.error_template')
                                         <form action="/contact-us" method="post" class="wpcf7-form init">
                                             @csrf
-                                            <!-- <div style="display: none;">
-                                                <input type="hidden" name="_wpcf7" value="757">
-                                                <input type="hidden" name="_wpcf7_version" value="5.4">
-                                                <input type="hidden" name="_wpcf7_locale" value="en_US">
-                                                <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f757-p370-o1">
-                                                <input type="hidden" name="_wpcf7_container_post" value="370">
-                                                <input type="hidden" name="_wpcf7_posted_data_hash" value="">
-                                            </div> -->
                                             <div id="contact-form" novalidate="novalidate">
                                                 <div class="row clearfix">
                                                     <div class="form-group col-md-6 col-sm-12 col-xs-12">

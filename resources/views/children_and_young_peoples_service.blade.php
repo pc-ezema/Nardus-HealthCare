@@ -72,8 +72,6 @@
                                                         <li>16+ semi-independent living services<br />
                                                             Our 16+ Service provides a high standard of accommodation and supportive environment for residents and unaccompanied asylum-seeking children aged 16 to 24 years. We aim to ensure young people are able to develop and maintain respect, self-reliance and self-care skills and enable them to make informed, age-appropriate decisions, concerning their present and future so they can achieve a successful transition into independence and adulthood. Services offered are based on an assessment of the young person’s needs.</li>
                                                     </ul>
-                                                    <p>Currently, we provide this service in Northamptonshire and are in the process of setting up services in Leicester, Leicestershire, Sheffield and other areas.</p>
-                                                    <p></p>
 
                                                     <br>
 
@@ -95,22 +93,6 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                    <div itemscope itemtype="https://schema.org/Comment" id="comments" class="post-comments comment-area clearfix">
-
-
-                        <!-- Comment Form -->
-                        <div class="comment-form wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
-                            <!-- Heading -->
-
-                        </div>
-                    </div><!-- #comments -->
-                    <!-- end comments -->
-
-                    <!--Pagination-->
-                    <div class="pager-outer clearfix">
-                        <div class="pagination text-right">
                         </div>
                     </div>
                 </section>

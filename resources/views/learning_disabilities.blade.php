@@ -63,7 +63,7 @@
                                                 <figure class="full-image"><a href="#"><img src="../wp-content/uploads/2019/01/learning.jpg" alt=""></a></figure>
                                                 <div class="content-outer">
                                                     <h2>Learning Disabilities</h2>
-                                                    <p>{{ config('app.name') }} is a specialist provider of learning disability services, established since 2014, with an impressive track record in delivering high quality support. We understand that finding the right support or care provider can be a daunting task, and we aim to make this as simple as possible.</p>
+                                                    <p>{{ config('app.name') }} is a specialist provider of learning disability services, established since May, 2021, with an impressive track record in delivering high quality support. We understand that finding the right support or care provider can be a daunting task, and we aim to make this as simple as possible.</p>
                                                     <p>Our mission is that by delivering a range of flexible care and support services we will ensure people with learning disabilities are as independent as possible and connected with their local communities.</p>
                                                     <h3>Our Approach</h3>
                                                     <p>Our staff are highly trained and we specialise in supporting people with complex and challenging needs, including:</p>
