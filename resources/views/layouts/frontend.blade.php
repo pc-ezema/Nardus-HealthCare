@@ -9,8 +9,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <!-- Favcon -->
-    <link rel="shortcut icon" type="image/png" href="wp-content/themes/seniorsecurity/images/favicon.html">
-    <title>Serenity Inmind &#8211; Driven to empower each individual</title>
+    <link rel="shortcut icon" href="index/wp-content/themes/images/favicon.png" type="image/x-icon">
+    <title>{{ config('app.name') }} &#8211; Driven to empower each individual</title>
     <meta name='robots' content='max-image-preview:large' />
     <!-- Optimized by SG Optimizer plugin version - 5.7.20 -->
     <meta name="description" content="" />
@@ -237,8 +237,6 @@
 
         <div class="page-wrapper">
             <!-- Preloader -->
-            <div class="preloader"></div>
-
             <!-- Header -->
             @includeIf('layouts.header')
             <!-- End Header -->

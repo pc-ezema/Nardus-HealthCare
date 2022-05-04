@@ -17,6 +17,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', 'HomePageController@index');
 Route::get('/about', 'HomePageController@about');
 Route::get('/contact', 'HomePageController@contact');
+Route::post('/contact-us', 'HomePageController@contactConfirm');
 Route::get('/vacancies', 'HomePageController@vacancies');
 Route::get('/learning_disabilities', 'HomePageController@learning_disabilities');
 Route::get('/mental_health', 'HomePageController@mental_health');

@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Mail;
 
 class HomePageController extends Controller
 {
@@ -17,6 +18,25 @@ class HomePageController extends Controller
 
     public function contact() {
         return view('contact');
+    }
+
+    public function contactConfirm() {
+        /** Store information to include in mail in $data as an array */
+        $data = array(
+            'name' => request()->name,
+            'email' => request()->email,
+            'phone' => request()->phone,
+            'subject' => request()->subject,
+            'description' => request()->message,
+            'created_at' => now(),
+            'admin' => 'promiseezema11@gmail.com',
+        );
+        /** Send message to the admin */
+        Mail::send('emails.contact', $data, function ($m) use ($data) {
+            $m->to($data['admin'])->subject('Contact Form Notification');
+        });
+
+        return back()->with('success_report', 'Form Submitted Successfully');
     }
 
     public function vacancies() {

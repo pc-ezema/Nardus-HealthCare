@@ -41,35 +41,42 @@
                                             <p role="status" aria-live="polite" aria-atomic="true"></p>
                                             <ul></ul>
                                         </div>
-                                        <form action="/contact-us/#wpcf7-f757-p370-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
-                                            <div style="display: none;">
+                                        @includeIf('layouts.error_template')
+                                        <form action="/contact-us" method="post" class="wpcf7-form init">
+                                            @csrf
+                                            <!-- <div style="display: none;">
                                                 <input type="hidden" name="_wpcf7" value="757">
                                                 <input type="hidden" name="_wpcf7_version" value="5.4">
                                                 <input type="hidden" name="_wpcf7_locale" value="en_US">
                                                 <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f757-p370-o1">
                                                 <input type="hidden" name="_wpcf7_container_post" value="370">
                                                 <input type="hidden" name="_wpcf7_posted_data_hash" value="">
-                                            </div>
+                                            </div> -->
                                             <div id="contact-form" novalidate="novalidate">
                                                 <div class="row clearfix">
                                                     <div class="form-group col-md-6 col-sm-12 col-xs-12">
                                                         <div class="field-label">Your Name *</div>
-                                                        <p> <span class="wpcf7-form-control-wrap text-147"><input type="text" name="text-147" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" style="background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHklEQVQ4EaVTO26DQBD1ohQWaS2lg9JybZ+AK7hNwx2oIoVf4UPQ0Lj1FdKktevIpel8AKNUkDcWMxpgSaIEaTVv3sx7uztiTdu2s/98DywOw3Dued4Who/M2aIx5lZV1aEsy0+qiwHELyi+Ytl0PQ69SxAxkWIA4RMRTdNsKE59juMcuZd6xIAFeZ6fGCdJ8kY4y7KAuTRNGd7jyEBXsdOPE3a0QGPsniOnnYMO67LgSQN9T41F2QGrQRRFCwyzoIF2qyBuKKbcOgPXdVeY9rMWgNsjf9ccYesJhk3f5dYT1HX9gR0LLQR30TnjkUEcx2uIuS4RnI+aj6sJR0AM8AaumPaM/rRehyWhXqbFAA9kh3/8/NvHxAYGAsZ/il8IalkCLBfNVAAAAABJRU5ErkJggg==&quot;); background-repeat: no-repeat; background-attachment: scroll; background-size: 16px 18px; background-position: 98% 50%;"></span>
+                                                        <p> <span class="wpcf7-form-control-wrap text-147"><input type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" required style="background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHklEQVQ4EaVTO26DQBD1ohQWaS2lg9JybZ+AK7hNwx2oIoVf4UPQ0Lj1FdKktevIpel8AKNUkDcWMxpgSaIEaTVv3sx7uztiTdu2s/98DywOw3Dued4Who/M2aIx5lZV1aEsy0+qiwHELyi+Ytl0PQ69SxAxkWIA4RMRTdNsKE59juMcuZd6xIAFeZ6fGCdJ8kY4y7KAuTRNGd7jyEBXsdOPE3a0QGPsniOnnYMO67LgSQN9T41F2QGrQRRFCwyzoIF2qyBuKKbcOgPXdVeY9rMWgNsjf9ccYesJhk3f5dYT1HX9gR0LLQR30TnjkUEcx2uIuS4RnI+aj6sJR0AM8AaumPaM/rRehyWhXqbFAA9kh3/8/NvHxAYGAsZ/il8IalkCLBfNVAAAAABJRU5ErkJggg==&quot;); background-repeat: no-repeat; background-attachment: scroll; background-size: 16px 18px; background-position: 98% 50%;"></span>
                                                         </p>
                                                     </div>
                                                     <div class="form-group col-md-6 col-sm-12 col-xs-12">
                                                         <div class="field-label">Your Email *</div>
-                                                        <p> <span class="wpcf7-form-control-wrap email-650"><input type="email" name="email-650" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false"></span>
+                                                        <p> <span class="wpcf7-form-control-wrap email-650"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" required></span>
+                                                        </p>
+                                                    </div>
+                                                    <div class="form-group col-md-12 col-sm-12 col-xs-12">
+                                                        <div class="field-label">Your Phone Number *</div>
+                                                        <p> <span class="wpcf7-form-control-wrap text-148"><input type="number" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-required="true" aria-invalid="false" required></span>
                                                         </p>
                                                     </div>
                                                     <div class="form-group col-md-12 col-sm-12 col-xs-12">
                                                         <div class="field-label">Subject *</div>
-                                                        <p> <span class="wpcf7-form-control-wrap text-148"><input type="text" name="text-148" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false"></span>
+                                                        <p> <span class="wpcf7-form-control-wrap text-148"><input type="text" name="subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" required></span>
                                                         </p>
                                                     </div>
                                                     <div class="form-group col-md-12 col-sm-12 col-xs-12">
                                                         <div class="field-label">Message *</div>
-                                                        <p> <span class="wpcf7-form-control-wrap textarea-337"><textarea name="textarea-337" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span>
+                                                        <p> <span class="wpcf7-form-control-wrap textarea-337"><textarea name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" required></textarea></span>
                                                         </p>
                                                     </div>
                                                     <div class="form-group col-md-12 col-sm-12 col-xs-12 text-right">
@@ -101,7 +108,7 @@
                                             <p></p>
                                         </li>
                                         <li><span class="icon fa fa-envelope"></span>
-                                            <p><a href="mailto:http://info@serenityinmind.co.uk">info@serenityinmind.co.uk</a></p>
+                                            <p><a href="mailto:http://info@nardushealthcare.co.uk">info@nardushealthcare.co.uk</a></p>
                                         </li>
                                     </ul>
                                     <br>
@@ -133,7 +140,7 @@
                 <div class="wpb_gmaps_widget wpb_content_element">
                     <div class="wpb_wrapper">
                         <div class="wpb_map_wraper">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2421.5099469724814!2d-1.1287633844914544!3d52.63269937983567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487761229e048c31%3A0x79f3cdb1bc46db20!2sSt+Georges+House%2C+6+St+Georges+Way%2C+Leicester+LE1+1SH!5e0!3m2!1sen!2suk!4v1548433159295" width="600" height="450" frameborder="0" style="border: 0px; pointer-events: none;" allowfullscreen=""></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d38087.727094275884!2d-1.4769677957762477!3d53.37040793651813!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48797807970d0ec9%3A0x67ac806e5a3e8843!2sSheffield%20S2%2C%20UK!5e0!3m2!1sen!2sng!4v1651577960282!5m2!1sen!2sng" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div>
                 </div>

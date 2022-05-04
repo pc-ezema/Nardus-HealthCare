@@ -15,8 +15,8 @@
                 <ul class="clearfix">
                     <li><a href="#"><span class="fa fa-phone"></span> +44 7496 353714</a></li>
                     <li><span class="fa fa-clock-o"></span> 9am - 5pm </li>
-                    <li><a href="#"><span class="fa fa-at"></span> info@serenityinmind.co.uk </a></li>
-                    <li><a href="https://goo.gl/maps/EdJGdWQmchz"><span class="fa fa-map-marker"></span> Find us on map</a></li>
+                    <li><a href="#"><span class="fa fa-at"></span> info@nardushealthcare.co.uk </a></li>
+                    <li><a href="https://goo.gl/maps/9823LPD1GmDqZ1eR8"><span class="fa fa-map-marker"></span> Find us on map</a></li>
                 </ul>
             </div>
 
@@ -32,7 +32,7 @@
 
                 <!-- Logo -->
                 <div class="logo">
-                    <a href="/"><img src="index/wp-content/themes/seniorsecurity/images/logo.png" alt="" title="{{ config('app.name') }}"></a>
+                    <a href="/"><img src="index/wp-content/themes/images/logo.png" alt="" title="{{ config('app.name') }}"></a>
                 </div>
 
                 <!-- Main Menu -->

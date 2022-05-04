@@ -11,7 +11,7 @@
                     <rs-module id="rev_slider_1_1" style="display:none;" data-version="6.2.1">
                         <rs-slides>
                             <rs-slide data-key="rs-1" data-title="Slide" data-thumb="//serenityinmind.co.uk/wp-content/uploads/2019/01/slide2-100x50.jpg" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:d;">
-                                <img src="wp-content/uploads/2019/01/slide2.jpg" title="Home Style One" class="rev-slidebg" data-no-retina>
+                                <img src="{{URL::asset('wp-content/uploads/2019/01/slide2.jpg')}}" title="Home Style One" class="rev-slidebg" data-no-retina>
                                 <!--
 							-->
                                 <rs-layer id="slider-1-slide-1-layer-1" data-type="text" data-color="rgba(255, 255, 255, 1)" data-rsp_ch="on" data-xy="x:c;y:c;yo:-149px;" data-text="l:22;" data-frame_0="y:-100%;o:1;tp:600;" data-frame_0_mask="u:t;" data-frame_1="tp:600;st:500;sp:1500;sR:500;" data-frame_1_mask="u:t;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:7000;" style="z-index:5;">
@@ -114,7 +114,7 @@
                                 revslider_showDoubleJqueryError("#rev_slider_1_1");
                             } else {
                                 revapi1 = tpj("#rev_slider_1_1").show().revolution({
-                                    jsFileLocation: "//serenityinmind.co.uk/wp-content/plugins/revslider/public/assets/js/",
+                                    jsFileLocation: "///wp-content/plugins/revslider/public/assets/js/",
                                     sliderLayout: "fullwidth",
                                     visibilityLevels: "1240,1024,778,480",
                                     gridwidth: 1200,

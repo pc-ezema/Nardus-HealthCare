@@ -33,8 +33,8 @@
                             <p>
                                 {{ config('app.name') }} Limited<br>
                                 106 The Blades Centre<br>
-                                Sheffield<br>
-                                S2 4SW
+                                Sheffild<br>
+                                S2 4SWe
 
                             </p>
                         </div>
@@ -54,7 +54,7 @@
                     </li>
                     <li>
                         <div class="info-title"><span class="fa fa-at"></span> Email Us At</div>
-                        <p class="info"><a href="mailto:http://info@serenityinmind.co.uk">info@serenityinmind.co.uk</a></p>
+                        <p class="info"><a href="mailto:http://info@nardushealthcare.co.uk">info@nardushealthcare.co.uk</a></p>
                     </li>
                 </ul>
             </div>
