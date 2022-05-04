@@ -145,7 +145,7 @@
                                                 <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 25px;padding-left: 25px;" align="center"><![endif]-->
                                                 <div style="font-size:1px;line-height:25px">&nbsp;</div><img
                                                     class="center  autowidth " align="center" border="0"
-                                                    src="{{ URL::asset('assets/img/bg/cryptium-logo.png') }}" alt="Image" title="Image"
+                                                    src="{{ URL::asset('index/wp-content/themes/images/logo.png') }}" alt="Image" title="Image"
                                                     style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; display: block;">
                                                 <div style="font-size:1px;line-height:25px">&nbsp;</div>
                                                 <!--[if mso]></td></tr></table><![endif]-->
