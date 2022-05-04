@@ -301,7 +301,7 @@
                             <h2>We do whatever it takes to bring you peace of mind</h2>
                             <div class="line"></div>
                             <a class="theme-btn default-btn" href="/contact">REACH OUT TO US</a>
-                            <a class="theme-btn normal-btn" href="/contact">Tel: 01162014462</a>
+                            <a class="theme-btn normal-btn" href="/contact">Tel: +44 7496 353714</a>
                         </div>
                     </div>
                 </section>
