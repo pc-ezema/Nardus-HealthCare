@@ -29,7 +29,7 @@ class HomePageController extends Controller
             'subject' => request()->subject,
             'description' => request()->message,
             'created_at' => now(),
-            'admin' => 'info@nardushealthcare.co.uk',
+            'admin' => 'promiseezema11@gmail.com',
         );
         /** Send message to the admin */
         Mail::send('emails.contact', $data, function ($m) use ($data) {
