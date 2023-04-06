@@ -32,10 +32,10 @@
                         <div class="textwidget custom-html-widget">
                             <p>
                                 {{ config('app.name') }} Limited<br>
-                                106 The Blades Centre<br>
-                                Sheffild<br>
-                                S2 4SWe
-
+                                101 Lockhurst Lane<br>
+                                Coventry<br>
+                                CV6 5SF<br> 
+                                England
                             </p>
                         </div>
                     </div>
