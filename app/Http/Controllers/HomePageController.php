@@ -62,4 +62,29 @@ class HomePageController extends Controller
     public function complaints() {
         return view('complaints');
     }
+
+    public function application()
+    {
+        return view('application');
+    }
+
+    public function applicationConfirm()
+    {
+        /** Store information to include in mail in $data as an array */
+        $data = array(
+            'name' => request()->name,
+            'email' => request()->email,
+            'phone' => request()->phone,
+            'subject' => request()->subject,
+            'description' => request()->message,
+            'created_at' => now(),
+            'admin' => 'info@nardushealthcare.co.uk',
+        );
+        /** Send message to the admin */
+        Mail::send('emails.contact', $data, function ($m) use ($data) {
+            $m->to($data['admin'])->subject('Contact Form Notification');
+        });
+
+        return back()->with('success_report', 'Form Submitted Successfully');
+    }
 }

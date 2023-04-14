@@ -52,18 +52,20 @@
                             <li id="menu-item-775" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-775"><a title="About us" href="/about" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">About us</a></li>
                             <li id="menu-item-803" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-803 dropdown"><a title="Services" href="#" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Services</a>
                                 <ul role="menu" class="submenu">
-                                    <li id="menu-item-810" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-810"><a title="Learning Disabilities" href="/learning_disabilities">Learning Disabilities</a></li>
-                                    <li id="menu-item-811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-811"><a title="Mental Health" href="/mental_health">Mental Health</a></li>
-                                    <li id="menu-item-812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-812"><a title="Children and Young People&#039;s Service" href="/children_and_young_peoples_service">Children and Young People&#8217;s Service</a></li>
-                                    <li id="menu-item-801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-801"><a title="Domiciliary Care" href="/domiciliary_care">Domiciliary Care</a></li>
+                                    <li id="menu-item-810" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-810"><a title="Personal Care" href="#">Personal Care</a></li>
+                                    <li id="menu-item-811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-811"><a title="Children Care (0-18years)" href="#">Children Care (0-18years)</a></li>
+                                    <li id="menu-item-812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-812"><a title="Dementia" href="#">Dementia</a></li>
+                                    <li id="menu-item-801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-801"><a title="Eating Disorders" href="#">Eating Disorders</a></li>
+                                    <li id="menu-item-810" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-810"><a title="Physical Disabilities" href="#">Physical Disabilities</a></li>
+                                    <li id="menu-item-811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-811"><a title="Sensory Impairments" href="#">Sensory Impairments</a></li>
+                                    <li id="menu-item-812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-812"><a title="Mental Health Conditions" href="#">Mental Health Conditions</a></li>
+                                    <li id="menu-item-801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-801"><a title="Treatment of Disease, Disorder or Injury" href="#">Treatment of Disease, Disorder or Injury</a></li>
+                                    <li id="menu-item-801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-801"><a title="Adults Care Over/Under 65years" href="#">Adults Care Over/Under 65years</a></li>
                                 </ul>
                             </li>
-                            <li id="menu-item-824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-824"><a title="Career" href="/vacancies" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Career</a></li>
-                            <li id="menu-item-790" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-790 dropdown"><a title="Contact Us" href="/contact" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Contact Us</a>
-                                <ul role="menu" class="submenu">
-                                    <li id="menu-item-821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-821"><a title="Complaints &amp; Compliments" href="/complaints">Complaints &#038; Compliments</a></li>
-                                </ul>
-                            </li>
+                            <li id="menu-item-824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-824"><a title="Career" href="/vacancies" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Currenct Vacancies</a></li>
+                            <!-- <li id="menu-item-824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-824"><a title="Career" href="/application" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Application</a></li> -->
+                            <li id="menu-item-790" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-824"><a title="Contact Us" href="/contact" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Contact Us</a></li>
                         </ul>
                     </div>
                 </nav><!-- Main Menu End-->

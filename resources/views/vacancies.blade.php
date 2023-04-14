@@ -8,7 +8,7 @@
         <div class="bread-crumb">
             <ul class="">
                 <li><a href="/">Home</a></li>
-                <li>Vacancies</li>
+                <li>Our current vacancies</li>
             </ul>
         </div>
     </div>
@@ -22,58 +22,134 @@
 <div class="sidebar-section no-bg" id="sidebar-section">
     <div class="auto-container">
         <div class="row clearfix">
-
-            <!-- sidebar area -->
-
             <!--Content Side-->
-            <div class="content-side  col-lg-12 col-md-12 col-sm-12 col-xs-12 ">
+            <div class="content-side col-lg-12">
+                <div class="vc_row wpb_row vc_row-fluid">
+                    <div class="wpb_column vc_column_container vc_col-sm-12">
+                        <div class="vc_column-inner ">
+                            <div class="wpb_wrapper">
+                                <div class="sec-title no-underline" style="margin-top: 40px; text-align: left !important; padding-left: 1.5rem;">
+                                    <h2>Latest Vacancies</h2>
+                                </div>
+                                <!--Featured Three Column-->
+                                <section class="featured-three-column ">
+                                    <div class="auto-container">
+                                        <div class="row clearfix">
+                                            <!--Column-->
+                                            <div class="col-md-6 column wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
+                                                <article class="inner-box">
+                                                    <div class="content">
+                                                        <h3>Care Home Manager - Worksop</h3>
+                                                    </div>
+                                                    <!-- <div class="text">
+                                                        <p>{{ config('app.name') }} is a specialist provider of learning disability services&#8230;</p>
+                                                    </div> -->
+                                                    <div class="link"><a href="#" data-toggle="modal" data-target="#open-model"  class="read-more normal-btn theme-btn"><span class="fa fa-caret-right"></span> APPLY</a></div>
+                                                </article>
+                                            </div>
+                                            <!--Column-->
+                                            <div class="col-md-6 column wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
+                                                <article class="inner-box">
+                                                    <div class="content">
+                                                        <h3>Administrator - Worksop</h3>
+                                                    </div>
+                                                    <!-- <div class="text">
+                                                        <p>{{ config('app.name') }} is a specialist provider of learning disability services&#8230;</p>
+                                                    </div> -->
+                                                    <div class="link"><a href="#" data-toggle="modal" data-target="#open-model"  class="read-more normal-btn theme-btn"><span class="fa fa-caret-right"></span> APPLY</a></div>
+                                                </article>
+                                            </div>
+                                            <!--Column-->
+                                            <div class="col-md-6 column wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
+                                                <article class="inner-box">
+                                                    <div class="content">
+                                                        <h3>Support Worker - Worksop</h3>
+                                                    </div>
+                                                    <!-- <div class="text">
+                                                        <p>{{ config('app.name') }} is a specialist provider of learning disability services&#8230;</p>
+                                                    </div> -->
+                                                    <div class="link"><a href="#" data-toggle="modal" data-target="#open-model"  class="read-more normal-btn theme-btn"><span class="fa fa-caret-right"></span> APPLY</a></div>
+                                                </article>
+                                            </div>
+                                            <!--Column-->
+                                            <div class="col-md-6 column wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
+                                                <article class="inner-box">
+                                                    <div class="content">
+                                                        <h3>Healthcare Assistant - Staffordshire</h3>
+                                                    </div>
+                                                    <!-- <div class="text">
+                                                        <p>{{ config('app.name') }} is a specialist provider of learning disability services&#8230;</p>
+                                                    </div> -->
+                                                    <div class="link"><a href="#" data-toggle="modal" data-target="#open-model"  class="read-more normal-btn theme-btn"><span class="fa fa-caret-right"></span> APPLY</a></div>
+                                                </article>
+                                            </div>
+                                            <!--Column-->
+                                            <div class="col-md-6 column wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
+                                                <article class="inner-box">
+                                                    <div class="content">
+                                                        <h3>Healthcare Assistant - Northampton</h3>
+                                                    </div>
+                                                    <!-- <div class="text">
+                                                        <p>{{ config('app.name') }} is a specialist provider of learning disability services&#8230;</p>
+                                                    </div> -->
+                                                    <div class="link"><a href="#" data-toggle="modal" data-target="#open-model" class="read-more normal-btn theme-btn"><span class="fa fa-caret-right"></span> APPLY</a></div>
+                                                </article>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
 
-                <!--Default Section-->
-                <section class="blog-section">
-                    <!--Blog Post-->
-                    <!-- blog post item -->
-                    <p>We pride ourselves in choosing kind and compassionate people who will care for our service users as though they were members of their own family. Then, when we find people who share our ethos,we nurture and invest in them, making sure they feel appreciated and supporting them to be the very best that they can be. To be able to go home smiling and wanting to go back to work again smiling is something we are proud of and will always support you to accomplish.</p>
-                    <p>We recognise that the ability to fulfil its vision, purpose and strategic plan relies on fostering an environment which develops staff and encourages the highest quality standards. Therefore, we value the contributions of all, blending the skills of individual staff members in unsurpassed collaboration.</p>
-                    <p><strong>Organisational and Professional Development Policy</strong><br />
-                        We recognise that staff development is integral to both personal job satisfaction and to the advancement of the organisation. Our commitment includes:<br />
-                        • providing career pathways<br />
-                        • maintaining our strong workplace culture and commitment to people<br />
-                        • promoting collaboration, teamwork diversity and inclusive practices<br />
-                        • maintaining workplace health and safety at the highest standards<br />
-                        • supporting our staff in balancing their work roles and responsibilities with their personal lives</p>
-                    <p><strong>Continuous Professional Development (CPD)</strong><br />
-                        Our staff engage in at least four supervision sessions with their line manager every year. They have a Personal Development Plan which outlines induction training, continuous training, QCF qualifications, buddying and supervision.<br />
-                        <strong>Career Development:</strong> We are committed to nurturing talent and promoting from within the company.<br />
-                        <strong>Remuneration</strong>: Our staff are <strong>paid over</strong> and above <strong>a living wage</strong> to encourage retention and improved outcomes for service users.
-                    </p>
-                    <p><strong>Key outcomes will include:</strong><br />
-                        • ensuring the health and well-being of our staff;<br />
-                        • increased capacity of staff to initiate and respond constructively to change<br />
-                        • a supportive climate and open communication style that encourages staff participation across the organisation</p>
-                    <div itemscope itemtype="https://schema.org/Comment" id="comments" class="post-comments comment-area clearfix">
-
-
-                        <!-- Comment Form -->
-                        <div class="comment-form wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
-                            <!-- Heading -->
-
-                        </div>
-                    </div><!-- #comments -->
-                    <!-- end comments -->
-
-                    <!--Pagination-->
-                    <div class="pager-outer clearfix">
-                        <div class="pagination text-right">
+                            </div>
                         </div>
                     </div>
-                </section>
-            </div>
-            <!--Content Side-->
+                </div>
 
-            <!--Sidebar-->
-            <!-- sidebar area -->
-            <!--Sidebar-->
+            </div>
         </div>
     </div>
 </div>
+
+<!-- Modal -->
+<div class="modal fade" id="open-model" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" style="font-size: 2rem; color: #000; font-weight: 700;">Application Process</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p style="font-size: 2rem; color: #000;">Kindly download the application form below, fill and submit to recruitment@nardushealthcare.co.uk</p>
+        <a download="Application Form Nardus Healthcare" href="{{ Storage::url('Application Form Nardus Healthcare.doc') }}" title="Application Form Nardus Healthcare" style="font-size: 1.5rem;">Click to download application form</a>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<style>
+    .inner-box {
+        align-items: center;
+        border: 1px solid #593202;
+        border-left: 10px solid #593202;
+        border-radius: 4px;
+        padding: 30px;
+        padding-left: 25px;
+        background: #fff !important;
+    }
+
+    .inner-box .content {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-gap: 35px;
+    }
+
+    .inner-box .content h3 {
+        color: #000 !important;
+    }
+</style>
 @endsection

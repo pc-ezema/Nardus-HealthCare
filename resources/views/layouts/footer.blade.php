@@ -16,10 +16,28 @@
                             <div class="textwidget">
                                 <div class="links">
                                     <ul>
-                                        <li><a href="/learning_disabilities">Learning Disabilities </a></li>
-                                        <li><a href="/mental_health">Mental Health </a></li>
-                                        <li><a href="/children_and_young_peoples_service">Children and Young People’s Service </a></li>
-                                        <li><a href="/domiciliary_care">Domiciliary Care</a></li>
+                                        <li><a title="Personal Care" href="#">Personal Care</a></li>
+                                        <li><a title="Children Care (0-18years)" href="#">Children Care (0-18years)</a></li>
+                                        <li><a title="Dementia" href="#">Dementia</a></li>
+                                        <li><a title="Eating Disorders" href="#">Eating Disorders</a></li>
+                                        <li><a title="Physical Disabilities" href="#">Physical Disabilities</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="text-2" class="col-md-3 col-sm-6 col-xs-12 column widget_text">
+                    <div class="footer-widget">
+                        <h2></h2>
+                        <div class="textwidget">
+                            <div class="textwidget">
+                                <div class="links">
+                                    <ul>
+                                        <li><a title="Sensory Impairments" href="#">Sensory Impairments</a></li>
+                                        <li><a title="Mental Health Conditions" href="#">Mental Health Conditions</a></li>
+                                        <li><a title="Treatment of Disease, Disorder or Injury" href="#">Treatment of Disease, Disorder or Injury</a></li>
+                                        <li><a title="Adults Care Over/Under 65years" href="#">Adults Care Over/Under 65years</a></li>
                                     </ul>
                                 </div>
                             </div>
