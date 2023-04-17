@@ -195,26 +195,26 @@
                                         <div class="line"></div>
                                     </div>
                                     <div class="block">
-                                        <div class="number wow rollIn" data-wow-delay="0ms" data-wow-duration="1500ms">1</div>
+                                        <div class="number wow rollIn" data-wow-delay="0ms" data-wow-duration="1500ms">A</div>
                                         <h4></h4>
-                                        <p>We consistently operate on the basis of honesty, fairness and transparency for the mutual benefit of our customers.
+                                        <p>We provide accurate diagnoses, develop appropriate treatment plans, and manage complex medical conditions.
                                         </p>
                                     </div>
                                     <div class="block">
-                                        <div class="number wow rollIn" data-wow-delay="0ms" data-wow-duration="1500ms">2</div>
+                                        <div class="number wow rollIn" data-wow-delay="0ms" data-wow-duration="1500ms">B</div>
                                         <h4></h4>
-                                        <p>We focus on clients by providing person centred care to meet the meets of all clients.</p>
+                                        <p>We take into account factors such as age, medical history, lifestyle, and cultural background when developing a treatment plan.</p>
                                     </div>
                                     <div class="block">
-                                        <div class="number wow rollIn" data-wow-delay="0ms" data-wow-duration="1500ms">3</div>
+                                        <div class="number wow rollIn" data-wow-delay="0ms" data-wow-duration="1500ms">C</div>
                                         <h4></h4>
-                                        <p>We foster a positive working environment that attracts, develops and retains, highly committed, motivated personnel. 
+                                        <p>We are trained to handle medical emergencies and can provide life-saving treatments such as CPR, administering medications, and performing medical procedures.
                                         </p>
                                     </div>
                                     <div class="block">
-                                        <div class="number wow rollIn" data-wow-delay="0ms" data-wow-duration="1500ms">4</div>
+                                        <div class="number wow rollIn" data-wow-delay="0ms" data-wow-duration="1500ms">D</div>
                                         <h4></h4>
-                                        <p>We ensure we are fit for our purpose. </p>
+                                        <p>We provide advice on healthy lifestyle choices, perform routine screenings, and provide vaccinations to help patients stay healthy. </p>
                                     </div>
                                 </article>
                             </div>
