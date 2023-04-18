@@ -190,31 +190,31 @@
                             <div class="col-md-6 col-sm-6 col-xs-12 content-column">
                                 <article class="inner-box">
                                     <div class="sec-title style-two style-three">
-                                        <h3 class="text-left">Why Choose Us?</h3>
-                                        <h2 class="text-left">The Reasons That You Should Contact Us</h2>
+                                        <h3 class="text-left">Why {{config('app.name')}}</h3>
+                                        <!-- <h2 class="text-left">The Reasons That You Should Contact Us</h2> -->
                                         <div class="line"></div>
                                     </div>
                                     <div class="block">
                                         <div class="number wow rollIn" data-wow-delay="0ms" data-wow-duration="1500ms">A</div>
                                         <h4></h4>
-                                        <p>We provide accurate diagnoses, develop appropriate treatment plans, and manage complex medical conditions.
+                                        <p>We consistently operate on the basis of honesty, fairness and transparency for the mutual benefit of our customers.
                                         </p>
                                     </div>
                                     <div class="block">
                                         <div class="number wow rollIn" data-wow-delay="0ms" data-wow-duration="1500ms">B</div>
                                         <h4></h4>
-                                        <p>We take into account factors such as age, medical history, lifestyle, and cultural background when developing a treatment plan.</p>
+                                        <p>We focus on clients by providing person centred care to meet the meets of all clients.</p>
                                     </div>
                                     <div class="block">
                                         <div class="number wow rollIn" data-wow-delay="0ms" data-wow-duration="1500ms">C</div>
                                         <h4></h4>
-                                        <p>We are trained to handle medical emergencies and can provide life-saving treatments such as CPR, administering medications, and performing medical procedures.
+                                        <p>We foster a positive working environment that attracts, develops and retains, highly committed, motivated personnel. 
                                         </p>
                                     </div>
                                     <div class="block">
                                         <div class="number wow rollIn" data-wow-delay="0ms" data-wow-duration="1500ms">D</div>
                                         <h4></h4>
-                                        <p>We provide advice on healthy lifestyle choices, perform routine screenings, and provide vaccinations to help patients stay healthy. </p>
+                                        <p>We ensure we are fit for our purpose. </p>
                                     </div>
                                 </article>
                             </div>
