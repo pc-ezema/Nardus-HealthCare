@@ -64,7 +64,7 @@
                 <ul>
                     <li>
                         <div class="info-title"><span class="fa fa-phone"></span> Call Us Anytime</div>
-                        <p class="info">+44 7496 353714</p>
+                        <p class="info">Mobile: 07709734715, Landline: 02475101502</p>
                     </li>
                     <li>
                         <div class="info-title"><span class="fa fa-clock-o"></span>Opening Hours </div>

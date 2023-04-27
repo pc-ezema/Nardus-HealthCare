@@ -13,7 +13,7 @@
             <!-- Top Right -->
             <div class="top-right">
                 <ul class="clearfix">
-                    <li><a href="#"><span class="fa fa-phone"></span> +44 7496 353714</a></li>
+                    <li><a href="#"><span class="fa fa-phone"></span> 07709734715</a></li>
                     <li><span class="fa fa-clock-o"></span> 9am - 5pm </li>
                     <li><a href="#"><span class="fa fa-at"></span> info@nardushealthcare.co.uk </a></li>
                     <li><a href="https://goo.gl/maps/9823LPD1GmDqZ1eR8"><span class="fa fa-map-marker"></span> Find us on map</a></li>

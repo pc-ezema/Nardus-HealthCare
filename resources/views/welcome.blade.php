@@ -237,7 +237,7 @@
                             <h2>Assisting those in need of care to live as comfortably and as securely as possible</h2>
                             <div class="line"></div>
                             <a class="theme-btn default-btn" href="/contact">REACH OUT TO US</a>
-                            <a class="theme-btn normal-btn" href="/contact">Tel: +44 7496 353714</a>
+                            <a class="theme-btn normal-btn" href="/contact">Tel: 07709734715, Landline: 02475101502</a>
                         </div>
                     </div>
                 </section>

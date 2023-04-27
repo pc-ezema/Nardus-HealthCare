@@ -96,8 +96,8 @@
 
                                     <ul>
                                         <li><span class="icon fa fa-phone"></span>
-                                            <p>+44 7496 353714</p>
-                                            <p></p>
+                                            <p>Mobile: 07709734715</p>
+                                            <p>Landline: 02475101502</p>
                                         </li>
                                         <li><span class="icon fa fa-envelope"></span>
                                             <p><a href="mailto:http://info@nardushealthcare.co.uk">info@nardushealthcare.co.uk</a></p>
