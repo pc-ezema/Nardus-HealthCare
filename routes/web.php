@@ -21,5 +21,5 @@ Route::post('/contact-us', 'HomePageController@contactConfirm');
 Route::get('/vacancies', 'HomePageController@vacancies');
 Route::get('/application', 'HomePageController@application');
 Route::get('/heslop-court', 'HomePageController@heslop_court');
-Route::get('/non-complex-care', 'HomePageController@non_complex_care');
+Route::get('/holding', 'HomePageController@holding');
 Route::get('/mayfair', 'HomePageController@mayfair');

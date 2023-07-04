@@ -8,7 +8,7 @@
         <div class="bread-crumb">
             <ul class="">
                 <li><a href="/">Home</a></li>
-                <li>Non Complex Care</li>
+                <li>Holding</li>
             </ul>
         </div>
     </div>
@@ -32,7 +32,7 @@
                                     <h3>Address: 40 Holding Street Worksop S81 0ND</h3>
                                 </div>
                                 <!--Featured Three Column-->
-                                <div class="container">
+                                <div class="con">
                                     <div class="box">
                                         <img src="images/non-complex-care/1.jpeg" alt="Non Complex Care">
                                     </div>
@@ -43,7 +43,7 @@
                                         <img src="images/non-complex-care/3.jpeg" alt="Non Complex Care">
                                     </div>
                                 </div>
-                                <div class="container">
+                                <div class="con">
                                     <div class="box">
                                         <img src="images/non-complex-care/4.jpeg" alt="Non Complex Care">
                                     </div>
@@ -65,7 +65,7 @@
 </div>
 
 <style>
-    .container {
+    .con {
         display: flex;
         width: 100%;
         padding: 4% 2%;
@@ -78,7 +78,7 @@
         overflow: hidden;
         transition: .5s;
         margin: 0 2%;
-        box-shadow: 0 20px 30px rgba(0, 0, 0, .1);
+        /* box-shadow: 0 20px 30px rgba(0, 0, 0, .1); */
         line-height: 0;
     }
 
@@ -87,14 +87,6 @@
         height: calc(100% - 10vh);
         object-fit: cover;
         transition: .5s;
-    }
-
-    .box>span {
-        font-size: 3.8vh;
-        display: block;
-        text-align: center;
-        height: 10vh;
-        line-height: 2.6;
     }
 
     .box:hover {

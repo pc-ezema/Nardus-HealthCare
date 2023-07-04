@@ -53,16 +53,8 @@
                                     <div class="box">
                                         <img src="images/heslop-court/6.jpeg" alt="Heslop Court">
                                     </div>
-                                </div>
-                                <div class="container">
                                     <div class="box">
                                         <img src="images/heslop-court/7.jpeg" alt="Heslop Court">
-                                    </div>
-                                    <div class="box">
-                                        <img src="images/heslop-court/8.jpeg" alt="Heslop Court">
-                                    </div>
-                                    <div class="box">
-                                        <img src="images/heslop-court/9.jpeg" alt="Heslop Court">
                                     </div>
                                 </div>
                             </div>
@@ -89,7 +81,7 @@
         overflow: hidden;
         transition: .5s;
         margin: 0 2%;
-        box-shadow: 0 20px 30px rgba(0, 0, 0, .1);
+        /* box-shadow: 0 20px 30px rgba(0, 0, 0, .1); */
         line-height: 0;
     }
 

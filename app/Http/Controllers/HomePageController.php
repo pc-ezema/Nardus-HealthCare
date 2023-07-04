@@ -93,9 +93,9 @@ class HomePageController extends Controller
         return view('heslop_court');
     }
 
-    public function non_complex_care()
+    public function holding()
     {
-        return view('non_complex_care');
+        return view('Holding');
     }
 
     public function mayfair()

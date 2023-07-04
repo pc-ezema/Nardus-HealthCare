@@ -52,7 +52,7 @@
                                 <div class="links">
                                     <ul>
                                         <li><a title="Heslop Court" href="heslop-court">Heslop Court</a></li>
-                                        <li><a title="Non Complex Care" href="non-complex-care">Non Complex Care</a></li>
+                                        <li><a title="Holding" href="holding">Holding</a></li>
                                         <li><a title="Mayfair" href="mayfair">Mayfair</a></li>
                                     </ul>
                                 </div>

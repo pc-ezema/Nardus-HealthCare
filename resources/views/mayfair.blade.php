@@ -89,7 +89,7 @@
         overflow: hidden;
         transition: .5s;
         margin: 0 2%;
-        box-shadow: 0 20px 30px rgba(0, 0, 0, .1);
+        /* box-shadow: 0 20px 30px rgba(0, 0, 0, .1); */
         line-height: 0;
     }
 

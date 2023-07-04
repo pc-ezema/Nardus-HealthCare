@@ -111,8 +111,8 @@ p{
 
 .auto-container{
 	position:static;
-	max-width:1200px;
-	padding:0px 15px;
+	max-width:1500px;
+	/* padding:0px 15px; */
 	margin:0 auto;
 }
 
@@ -665,7 +665,7 @@ letter-spacing: 5px;
 .main-header .header-lower .logo{
 	position:relative;
 	float:left;
-	padding-right:10px;
+	/* padding-right:10px; */
 	background:#f79468;
 }
 
@@ -684,7 +684,7 @@ letter-spacing: 5px;
 	position:absolute;
 	left:80%;
 	top:0%;
-	width:100px;
+	width:80px;
 	height:100%;
 	background:#f79468;
 	transform:skewX(25deg);
