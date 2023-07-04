@@ -44,6 +44,22 @@
                         </div>
                     </div>
                 </div>
+                <div id="text-2" class="col-md-3 col-sm-6 col-xs-12 column widget_text">
+                    <div class="footer-widget">
+                        <h2>Our Residential Care Home</h2>
+                        <div class="textwidget">
+                            <div class="textwidget">
+                                <div class="links">
+                                    <ul>
+                                        <li><a title="Heslop Court" href="heslop-court">Heslop Court</a></li>
+                                        <li><a title="Non Complex Care" href="non-complex-care">Non Complex Care</a></li>
+                                        <li><a title="Mayfair" href="mayfair">Mayfair</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <div id="custom_html-2" class="widget_text col-md-3 col-sm-6 col-xs-12 column widget_custom_html">
                     <div class="widget_text footer-widget">
                         <h2>Contact us</h2>

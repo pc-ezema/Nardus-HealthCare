@@ -25,7 +25,7 @@
 
     <!-- Header Lower -->
     <div class="header-lower">
-        <div class="auto-container clearfix">
+        <div class="auto-container clearfix" style="max-width: 1350px;">
 
             <!--Outer Box-->
             <div class="outer-box">
@@ -61,6 +61,13 @@
                                     <li id="menu-item-812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-812"><a title="Mental Health Conditions" href="#">Mental Health Conditions</a></li>
                                     <li id="menu-item-801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-801"><a title="Treatment of Disease, Disorder or Injury" href="#">Treatment of Disease, Disorder or Injury</a></li>
                                     <li id="menu-item-801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-801"><a title="Adults Care Over/Under 65years" href="#">Adults Care Over/Under 65years</a></li>
+                                </ul>
+                            </li>
+                            <li id="menu-item-803" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-803 dropdown"><a title="Our Residential Care Home" href="#" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Our Care Home</a>
+                                <ul role="menu" class="submenu">
+                                    <li id="menu-item-810" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-810"><a title="Heslop Court" href="heslop-court">Heslop Court</a></li>
+                                    <li id="menu-item-811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-811"><a title="Non Complex Care" href="non-complex-care">Non Complex Care</a></li>
+                                    <li id="menu-item-812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-812"><a title="Mayfair" href="mayfair">Mayfair</a></li>
                                 </ul>
                             </li>
                             <li id="menu-item-824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-824"><a title="Career" href="/vacancies" class="hvr-underline-from-left1" data-scroll data-options="easing: easeOutQuart">Currenct Vacancies</a></li>

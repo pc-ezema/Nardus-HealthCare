@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use Mail;
+use Illuminate\Support\Facades\Mail;
 
 class HomePageController extends Controller
 {
@@ -86,5 +86,20 @@ class HomePageController extends Controller
         });
 
         return back()->with('success_report', 'Form Submitted Successfully');
+    }
+
+    public function heslop_court()
+    {
+        return view('heslop_court');
+    }
+
+    public function non_complex_care()
+    {
+        return view('non_complex_care');
+    }
+
+    public function mayfair()
+    {
+        return view('mayfair');
     }
 }

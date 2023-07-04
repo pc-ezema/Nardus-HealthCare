@@ -164,6 +164,4 @@
 
 </body>
 
-<!-- Mirrored from serenityinmind.co.uk/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 02 May 2022 15:00:20 GMT -->
-
 </html>
