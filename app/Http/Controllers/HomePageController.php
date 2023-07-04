@@ -95,7 +95,7 @@ class HomePageController extends Controller
 
     public function holding()
     {
-        return view('Holding');
+        return view('holding');
     }
 
     public function mayfair()
