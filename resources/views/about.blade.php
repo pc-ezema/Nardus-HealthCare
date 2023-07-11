@@ -54,12 +54,21 @@
                                     <!--Column-->
                                     <div class="col-md-7  col-sm-7 col-xs-12 column">
                                         <h2 class="main-title"></h2>
-                                        <p>{{config('app.name')}} is a specialist provider for complex care packages. We are nurse-led service and we hold both CQC registration for personal care and nursing care (treatment of disease, disorder or injury).</p>
-                                        <p>We support individuals with a range of health conditions such learning disability, autism, mental health issues, acquired brain injury and complex physical health problems who need care and support. Our support workers have been trained to perform delegated health tasks.</p>
-                                        <p>Our clinical governance lead has a wealth of experience, having previously held several senior clinical and managerial roles (ward manager and clinical quality lead) within the NHS and private secure hospitals. 
-                                            Her relevant experience also includes Discharge to Assess (D2A) and reablement, Safeguarding Adults, leadership and team management, complex case management (CHC, mental health & learning disability), 
-                                            quality monitoring, complaints handling/investigation, serious incident investigations, transition planning, transformation of services, quality improvement, working age adults and older adults mental health services and crisis and risk management. 
-                                            She has a lot of experience in conducting internal audits and clinical reviews of care and quality governance arrangements.</p>
+                                        <p>Introducing {{config('app.name')}}: Your Specialist Provider for Complex Care Packages
+                                            Are you in need of a reliable and expert provider for complex care packages? Look no further than {{config('app.name')}}. 
+                                            Our nurse-led service is here to cater to your unique needs, ensuring top-quality care and support every step of the way. 
+                                            As proud holders of both CQC registration for personal care and nursing care, we guarantee exceptional service in the treatment of various diseases, disorders, and injuries.</p>
+                                        <p>At {{config('app.name')}}, we are dedicated to assisting individuals with a wide range of health conditions. From learning disabilities and autism to mental health issues, acquired brain injuries, and complex physical health problems, we are equipped to handle diverse care requirements. 
+                                            Our compassionate support workers have undergone extensive training to efficiently perform delegated health tasks, ensuring the highest standards of care.</p>
+                                        <p>Currently, we are in the process of obtaining CQC registration for our specialist residential and nursing homes in Nottinghamshire. 
+                                            With 18 bed residential homes and 2 bed nursing homes, we provide tailored support to individuals within the comfort of their own homes. 
+                                            Our knowledgeable and skilled staff are readily available to deliver the care and assistance you or your loved ones need.</p>
+                                        <p>Leading our clinical governance is an esteemed professional with a wealth of experience. 
+                                            Having held prominent roles such as ward manager and clinical quality lead in both NHS and private secure hospitals, she possesses invaluable expertise. 
+                                            Her comprehensive background includes Discharge to Assess (D2A) and reablement, Safeguarding Adults, leadership and team management, complex case management encompassing CHC, 
+                                            mental health, and learning disabilities, quality monitoring, complaints handling and investigation, serious incident investigations, transition planning, service transformation, 
+                                            quality improvement, working age adults and older adults mental health services, crisis and risk management, and conducting internal audits and clinical reviews to ensure impeccable care and governance arrangements.</p>
+                                        <p>Choose {{config('app.name')}} for your complex care needs, and experience the dedication and professionalism that sets us apart. We are committed to providing exceptional care, tailored to your unique circumstances. Contact us today to learn more about our services and how we can assist you.</p>
                                         <h3>Value Statements</h3>
                                         <p>The following value statements, which guide {{ config('app.name') }}’s mission, are an expression of the vision and intent of our founders.</p>
                                         <ul class="styled-list">
